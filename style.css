@@ -1,1 +1,8 @@
 /* Write your CSS Here. */
+h2{
+    text-align: center;
+}
+ul{
+    text-align: center;
+    list-style: none;
+}
